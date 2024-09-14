@@ -12,7 +12,7 @@ Top 50 Airports by Bird Strikes: Dallas Fort Worth and other large airports repo
 
 Phase of Flight and Altitude Data: Bird strikes predominantly occur during the approach phase of flights(around 40%), and most strikes happen below 100 feet in altitude.
 
-Cost Analysis: The yearly cost incurred by bird strikes varies significantly, with some years experiencing costs over $12 million.
+Cost Analysis: The yearly cost incurred by bird strikes varies significantly, with one year experiencing costs over $12 million.
 
 In most cases, pilots received no prior warning of the bird strike, and most strikes did not cause damage. However, a small proportion of strikes caused significant damage when no warning was given.
 
