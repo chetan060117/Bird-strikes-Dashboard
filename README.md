@@ -5,14 +5,19 @@ This repository contains a detailed analysis and visualization of bird strikes o
 # Key Features:
 
 Number of Bird Strikes by Year: A steady rise in bird strikes from 2000 to 2010, with a notable peak in 2010.
+
 Top 10 US Airlines by Bird Strikes: Analysis of which airlines face the highest number of bird strikes, with SouthWest Airlines leading.
+
 Top 50 Airports by Bird Strikes: Dallas Fort Worth and other large airports report the most bird strikes.
+
 Phase of Flight and Altitude Data: Bird strikes predominantly occur during the approach phase of flights, and most strikes happen below 100 feet in altitude.
+
 Cost Analysis: The yearly cost incurred by bird strikes varies significantly, with some years experiencing costs over $12 million.
 
 # Tools Used:
 
 Power BI: For creating interactive and dynamic visualizations.
+
 Python (Pandas, Seaborn, Matplotlib): For data cleaning, analysis, and initial visualizations.
 
 # Contributing
