@@ -1,6 +1,6 @@
 # Bird-strikes-Dashboard
 
-This repository contains a detailed analysis and visualization of bird strikes on aircraft. The data provides insights into the patterns of bird strikes, including which airlines and airports are most affected, the phases of flight during which bird strikes occur, and the costs associated with bird strikes.
+This repository contains a detailed analysis and visualization of bird strikes on aircraft. This  dashboard provides insights into the patterns of bird strikes, including which airlines and airports are most affected, the phases of flight during which bird strikes occur, and the costs associated with bird strikes.
 
 # Key Features:
 
