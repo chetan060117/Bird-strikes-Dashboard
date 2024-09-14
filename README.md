@@ -4,7 +4,7 @@ This repository contains a detailed analysis and visualization of bird strikes o
 
 # Key Features:
 
-Number of Bird Strikes by Year: A steady rise in bird strikes from 2000 to 2010, with a notable peak in 2010.
+Number of Bird Strikes by Year: A steady rise in bird strikes from 2000 to 2010, with a notable peak in 2009.
 
 Top 10 US Airlines by Bird Strikes: Analysis of which airlines face the highest number of bird strikes, with SouthWest Airlines leading.
 
